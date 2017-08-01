@@ -3,6 +3,8 @@
 It's just an idea, some abstract data structures and a lot of thinking about
 feasibility, but it's worth doing. Check the design-docs folder.
 
+[Here's a quick dirty javascript object prototype that represents an audio file.](https://github.com/dabbamont/brainy-mastering/blob/master/design-docs/object-prototypes.js)
+
 ## The Early Introduction and Statement of Purpose
 
 Brainy Mastering is a proposed open source software project started by
